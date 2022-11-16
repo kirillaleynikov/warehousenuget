@@ -1,0 +1,28 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "warehouselibrary/1.0.0": {
+        "runtime": {
+          "lib/net6.0-windows7.0/warehouselibrary.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "warehouselibrary/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-waywJqDnxPJiwjX+1ext2uk0QRis9hbrtaOwpxwEzeRLnFK0GLDjReLDwX2i5gtJTv9r/+g7pGZxYAR/eL22DA==",
+      "path": "warehouselibrary/1.0.0",
+      "hashPath": "warehouselibrary.1.0.0.nupkg.sha512"
+    }
+  }
+}

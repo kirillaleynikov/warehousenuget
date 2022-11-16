@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KOjO0UTO1CZSvNmGDxjT4a6DrS/TwojGaeIMB+1QDT4+1sqcD1AQfbv545HgGv8YwAEsAH6bsriqIIre4aYqsQ==",
+  "success": true,
+  "projectFilePath": "D:\\С#\\warehousenuget\\Warehouse.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kiryu\\.nuget\\packages\\warehouselibrary\\1.0.0\\warehouselibrary.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

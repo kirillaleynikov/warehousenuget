@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0-windows</TargetFramework>
+	  <PackageLicenseFile>LICENSE.txt</PackageLicenseFile>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+	  <Authors>KirillAleynikov</Authors>
+	  <Version>1.0</Version>
+	  <Company>PKHG</Company>
+	  <Description>Nuget пакет</Description>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="License\LICENSE.txt" Pack="true" PackagePath=""/>
+  </ItemGroup>
+</Project>

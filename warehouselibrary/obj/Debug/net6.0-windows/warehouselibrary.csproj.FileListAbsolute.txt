@@ -1,0 +1,12 @@
+D:\С#\warehouselibrary\obj\Debug\net6.0-windows\warehouselibrary.csproj.AssemblyReference.cache
+D:\С#\warehouselibrary\obj\Debug\net6.0-windows\warehouselibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\С#\warehouselibrary\obj\Debug\net6.0-windows\warehouselibrary.AssemblyInfoInputs.cache
+D:\С#\warehouselibrary\obj\Debug\net6.0-windows\warehouselibrary.AssemblyInfo.cs
+D:\С#\warehouselibrary\obj\Debug\net6.0-windows\warehouselibrary.csproj.CoreCompileInputs.cache
+D:\С#\warehouselibrary\bin\Debug\net6.0-windows\warehouselibrary.deps.json
+D:\С#\warehouselibrary\bin\Debug\net6.0-windows\warehouselibrary.dll
+D:\С#\warehouselibrary\bin\Debug\net6.0-windows\warehouselibrary.pdb
+D:\С#\warehouselibrary\obj\Debug\net6.0-windows\warehouselibrary.dll
+D:\С#\warehouselibrary\obj\Debug\net6.0-windows\refint\warehouselibrary.dll
+D:\С#\warehouselibrary\obj\Debug\net6.0-windows\warehouselibrary.pdb
+D:\С#\warehouselibrary\obj\Debug\net6.0-windows\ref\warehouselibrary.dll

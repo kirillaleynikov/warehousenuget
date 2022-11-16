@@ -1,0 +1,111 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0-windows7.0": {
+      "warehouselibrary/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0-windows7.0/warehouselibrary.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0-windows7.0/warehouselibrary.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WindowsForms"
+        ]
+      }
+    }
+  },
+  "libraries": {
+    "warehouselibrary/1.0.0": {
+      "sha512": "waywJqDnxPJiwjX+1ext2uk0QRis9hbrtaOwpxwEzeRLnFK0GLDjReLDwX2i5gtJTv9r/+g7pGZxYAR/eL22DA==",
+      "type": "package",
+      "path": "warehouselibrary/1.0.0",
+      "files": [
+        ".nupkg.metadata",
+        "LICENSE.txt",
+        "lib/net6.0-windows7.0/warehouselibrary.dll",
+        "warehouselibrary.1.0.0.nupkg.sha512",
+        "warehouselibrary.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0-windows7.0": [
+      "warehouselibrary >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\kiryu\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\С#\\warehousenuget\\Warehouse.csproj",
+      "projectName": "Warehouse",
+      "projectPath": "D:\\С#\\warehousenuget\\Warehouse.csproj",
+      "packagesPath": "C:\\Users\\kiryu\\.nuget\\packages\\",
+      "outputPath": "D:\\С#\\warehousenuget\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\kiryu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Users\\kiryu\\OneDrive\\Рабочий стол\\lib": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0-windows7.0": {
+        "targetAlias": "net6.0-windows",
+        "dependencies": {
+          "warehouselibrary": {
+            "target": "Package",
+            "version": "[1.0.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
